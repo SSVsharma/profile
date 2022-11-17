@@ -10,7 +10,8 @@ color:Black;
 }
 p{
 background-color:#add8e6;
-opacity:0.8
+opacity:0.8;
+  font-family: "Sofia", sans-serif;
 }
 h2{
 background-color:#ac94f4;
