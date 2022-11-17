@@ -1,24 +1,41 @@
-
+nav li a:hover, nav li a.current { 
+ color: aqua;} 
+		
 marquee{
-color:#0b0c10;
-font-size:270%
+	color:#ddff03;
+	font-size:270%;
+	font-family: "Audiowide", sans-serif;
 }
 body{
-background-color:#c5c6c7;
-opacity:1.2;
-color:Black;
+	background-color:#252525;
+	opacity:1.2;
+	color:Black;
 }
 p{
-background-color:#add8e6;
-opacity:0.8;
-  font-family: "Sofia", sans-serif;
+	background-color:#0f0f00;
+	color: #ffffff;
+	opacity:0.8;
+	font-family: "Sofia", sans-serif;
+	font-size: larger;
+	
 }
-h2{
-background-color:#ac94f4;
+nav li{
+	margin-right: 50px;
+	display: inline-block;
 }
-h3{
-background-color:#eee2dc
+a{
+	cursor:grab;
+	background-color: #000000;
+	font-size: large;
+	font-weight: 600;
+	text-shadow:2px 2px 5px #61ff59;
+	color: aquamarine;
+
 }
-li{
-background-color:yellow
+img{
+  margin-left: auto;
+  margin-right: left;
+}
+div{
+	background-color: #252525;
 }
