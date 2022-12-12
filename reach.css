@@ -1,10 +1,11 @@
-body{
+    body{
         background-color: #fffaf4;
         color:black;
         font-size: larger;
     }
     .fa-google {
   background: #ff3503;
+  text-decoration: none;
   font-weight: bold;
   font-size: 30px;
   width: fit-content;
@@ -12,10 +13,11 @@ body{
   border-radius: 50%;
   color: white;}
   .fa-google:hover{
-    color: #000000;
+    color: #125688;
   }
   .fa-instagram {
-  background: #125688;
+  background: #8a3ab9;
+  text-decoration: none;
   color: white;
   font-weight: bolder;
   font-size: 30px;
@@ -26,6 +28,7 @@ body{
   text-align: center;}
   .fa-linkedin {
   background: #007bb5;
+  text-decoration: none;
   color: white;
   font-size: 30px;
   padding: 20px;
@@ -36,6 +39,7 @@ body{
   }
   .fa-phone{
     background-color: #2fff00;
+    text-decoration: none;
     color: #ffffff;
     font-size: 30px;
   padding: 20px;
@@ -46,6 +50,7 @@ body{
   }
   .fa-github{
     background-color: #000000;
+    text-decoration: none;
     color: #ffffff;
     font-size: 30px;
   padding: 20px;
@@ -57,6 +62,7 @@ body{
   .gfg{
     font-size:30px;
     background-color: #44e413;
+    text-decoration: none;
     color: #ffffff;
     font-family: "Sofia", sans-serif;
-  }
+}
